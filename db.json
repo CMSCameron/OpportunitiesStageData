@@ -1,5 +1,5 @@
 {
-  "stage": [
+  "stages": [
     { "text" : "Closed Lost" },
     { "text" : "Closed Won" },
     { "text" : "Quote" }

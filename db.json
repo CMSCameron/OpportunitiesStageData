@@ -1,0 +1,7 @@
+{
+  "stages": [
+    { "stage" : "Closed Lost" },
+    { "stage" : "Closed Won" },
+    { "stage" : "Quote" }
+  ]
+}

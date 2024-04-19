@@ -1,7 +1,7 @@
 {
-  "stages": [
-    { "stage" : "Closed Lost" },
-    { "stage" : "Closed Won" },
-    { "stage" : "Quote" }
+  "stage": [
+    { "text" : "Closed Lost" },
+    { "text" : "Closed Won" },
+    { "text" : "Quote" }
   ]
 }
